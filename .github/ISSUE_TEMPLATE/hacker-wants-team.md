@@ -10,8 +10,7 @@ _Talk a little about yourself:_
 
 - [ ] _Who you are_: 
 - [ ] _What you do_: 
-- [ ] _How you got first into Ethereum_: 
-- [ ] _What brings you to Dragon Quest?_: 
+- [ ] _What brings you to Fork The World?_: 
 
 ## Skills
 
