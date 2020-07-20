@@ -12,7 +12,7 @@ about: You have a team and want to find more hackers? Amazing!
 
 _Talk a little about the team:_
 
-- [] who is already on board, what you've been up to or what brings you to Dragon Quest*
+- [] who is already on board, what you've been up to or what brings you to Fork The World*
 
 ## Skills wanted
 
