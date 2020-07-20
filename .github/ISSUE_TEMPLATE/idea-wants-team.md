@@ -29,7 +29,7 @@ _What skills do you need, or think you might need to implement the idea?_
 
 ## Communication
 
-_Consider leaving your personal telegram address so that the team can contact you off GitHub._
+_Consider leaving your personal discord handle so that the team can contact you off GitHub._
 
 @ 
 
