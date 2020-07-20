@@ -27,7 +27,7 @@ _Tell us what you are looking for:_
 
 ## Communication
 
-_Consider leaving your personal telegram address so that the team can contact you off GitHub._
+_Consider leaving your personal discord handle so that the team can contact you off GitHub._
 
 @ 
 
