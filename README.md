@@ -124,5 +124,7 @@ Other than bounty-specific, we have these prizes - making up a total of ~$15k
 -   DAO Interoperability Hack $500
 -   Best MyMeta extension $500
 -   Biggest vulnerability discovered $500
+-   ??? Surprise Prize $500
+-   ??? Surprise Prize $500
 
 ## Jump on [Discord](https://discord.gg/TstFZSb) or get on the [calendar](https://calendar.google.com/calendar?cid=bmloNTlrdGdhZm1tNjRlZDRxazZ1ZTh2djRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
