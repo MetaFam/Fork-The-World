@@ -25,7 +25,7 @@ _Tell us what your skills are:_
 
 ## Communication
 
-_Consider leaving your personal telegram address so that the team can contact you off GitHub._
+_Consider leaving your personal discord handle so that the team can contact you off GitHub._
 
 @ 
 
