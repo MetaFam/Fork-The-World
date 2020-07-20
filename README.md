@@ -78,9 +78,11 @@ Opening Fork The World, we have everything it makes sense to have for introducin
 
 ## 🧙‍♂️ Team Formation / Looking for a Party 
 
--   [Looking for a team?](https://github.com/metafam/fork-the-world/issues/new?template=hacker-wants-team.md)
--   [Looking for hackers?](https://github.com/metafam/fork-the-world/issues/new?template=team-wants-hacker.md) 
--   [Want to create a new team?](https://github.com/metafam/fork-the-world/issues/new?template=idea-wants-team.md)
+Please include the relevant abbreviation in the title of your issue `LFT` , `LFH` , `NEW` 
+
+-  `LFT` [Looking for a team?](https://github.com/metafam/fork-the-world/issues/new?template=hacker-wants-team.md)
+-  `LFH` [Looking for hackers?](https://github.com/metafam/fork-the-world/issues/new?template=team-wants-hacker.md) 
+-  `NEW` [Want to create a new team?](https://github.com/metafam/fork-the-world/issues/new?template=idea-wants-team.md)
 -   Connect with hackers [on Discord](https://discord.gg/TstFZSb)
 
 
