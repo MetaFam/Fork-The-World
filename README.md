@@ -51,7 +51,7 @@ Opening Fork The World, we have everything it makes sense to have for introducin
 	-   **DAO Design Workshop** by Felipe Duarte
 - **July 23rd - Moar Workshops** 
 	-  1pm CET/ 4am PST - [The Experiment](https://www.daoleadership.com/experiment/) - [Co-organizing a conference on co-organizing.](https://www.google.com/url?q=https://us02web.zoom.us/j/82635414269&sa=D&source=calendar&ust=1595310424057000&usg=AOvVaw11mT9SqS-RZAF1i3tPacm7)
-	-   Ethereum Push Notifications by Awosika
+	- coreteam@epns.io  Ethereum Push Notifications by Awosika
 	- Skill Trees - Mapping Web3 contributors knowledge.
 	- **YOUR** workshop or raid announcement.
 		- Get in touch with @petheth on Twitter, Telegram or Discord
