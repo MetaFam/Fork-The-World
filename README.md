@@ -136,6 +136,11 @@ If there’s a workshop you’d like to see listed, send us a suggestion & we’
 
 ### **MetaMaps Simple Mapping Bounty** $500 [Attack ⚔️](https://gitcoin.co/issue/MetaFam/Fork-The-World/5/100023426)
 
+-   **What we need:** a **black board** you can build on, with the ability to **drag & drop sprites** onto it from the outside and **change the wallpaper** behind it.
+-   **Default shapes:** there should be a few **default shapes** to start from, though the emphasis is on the ability to drag & drop pieces from outside the map.
+-   **Buttons:** every piece of the map can be a button that either takes you to **another page** or opens a small **pop-up** container giving more info & links.
+-   **Connections:** pieces of the map can be visually **connected** to others by drawing a **line** between them.
+-   **Editing:** one should be able to edit the map by logging in with **MetaMask**.
 -   The basic version is done, which means this bounty now becomes an open raid like MyMeta, and anyone helping upgrade it gains.
     
 
