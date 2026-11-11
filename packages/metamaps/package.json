@@ -1,0 +1,11 @@
+{
+  "name": "@metafam/metamaps",
+  "version": "1.0.0",
+  "description": "MetaMaps interactive blackboard mapping engine with right-click graphic context menu, dynamic sprite resizing, locked connection lines, MetaMask write-privilege verification, and 3Box/Ceramic state storage.",
+  "type": "module",
+  "main": "src/metamaps-engine.js",
+  "scripts": {
+    "test": "node test/metamaps.test.mjs"
+  },
+  "license": "MIT"
+}

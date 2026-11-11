@@ -137,6 +137,7 @@ If there’s a workshop you’d like to see listed, send us a suggestion & we’
 ### **MetaMaps Simple Mapping Bounty** $500 [Attack ⚔️](https://gitcoin.co/issue/MetaFam/Fork-The-World/5/100023426)
 
 -   The basic version is done, which means this bounty now becomes an open raid like MyMeta, and anyone helping upgrade it gains.
+-   **Package (`packages/metamaps`)**: Standalone embeddable MetaMaps package implementing the `#1b0d2a` blackboard, `#392373` icon-based right-click context menu (Circle `#5a32e6`, Line `#b72886`, Sprite/Background base64 upload), `#261942` rounded `8px` pop-ups, `IBM Plex Sans` (`#a5b9f6`) node labels, dynamic resizing, locked line connections, MetaMask write-privilege verification, and 3Box/Ceramic state serialization (`node packages/metamaps/test/metamaps.test.mjs`).
     
 
 ### **Skill Tree - Mapping Web3 Knowledge** $500 [Attack ⚔️](https://gitcoin.co/issue/MetaFam/Fork-The-World/4/100023427)
