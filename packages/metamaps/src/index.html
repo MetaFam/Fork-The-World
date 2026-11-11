@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MetaMaps — MetaGame Interactive Mapping</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-board: #1b0d2a;
+      --bg-popup: #261942;
+      --bg-button: #392373;
+      --text-primary: #a5b9f6;
+      --node-circle: #5a32e6;
+      --edge-line: #b72886;
+      --radius: 8px;
+    }
+    * { box-sizing: border-box; }
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background-color: var(--bg-board);
+      color: var(--text-primary);
+      font-family: 'IBM Plex Sans', sans-serif;
+      overflow: hidden;
+    }
+    #metamaps-board {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      background-color: var(--bg-board);
+    }
+    .context-menu {
+      position: fixed;
+      display: none;
+      gap: 8px;
+      padding: 8px;
+      background: var(--bg-popup);
+      border-radius: var(--radius);
+      z-index: 100;
+    }
+    .context-btn {
+      width: 40px;
+      height: 40px;
+      background: var(--bg-button);
+      color: var(--text-primary);
+      border: none;
+      border-radius: var(--radius);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .node-popup {
+      position: fixed;
+      background: var(--bg-popup);
+      color: var(--text-primary);
+      border-radius: var(--radius);
+      padding: 16px;
+      max-width: 320px;
+      z-index: 90;
+    }
+  </style>
+</head>
+<body>
+  <div id="metamaps-board" data-embeddable="true">
+    <svg id="metamaps-lines" width="100%" height="100%" style="position:absolute;top:0;left:0;z-index:10;pointer-events:none;"></svg>
+    <div id="metamaps-nodes" style="position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;"></div>
+    <div id="metamaps-context-menu" class="context-menu">
+      <button class="context-btn" data-action="add-circle" title="Add Circle Node">&#9679;</button>
+      <button class="context-btn" data-action="add-line" title="Connect Nodes with Line">&#9585;</button>
+      <button class="context-btn" data-action="upload-sprite" title="Upload Sprite / Background">&#8682;</button>
+    </div>
+  </div>
+</body>
+</html>
